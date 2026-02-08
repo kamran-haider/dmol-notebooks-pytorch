@@ -1,6 +1,8 @@
 .claude
 CLAUDE.md
 dmol-notebooks-pytorch.code-workspace
+.DS_Store
+guides/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
